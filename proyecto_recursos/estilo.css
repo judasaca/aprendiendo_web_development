@@ -1,0 +1,17 @@
+a{
+	color: red;
+}
+h1{
+	text-align: center;
+	line-height: 2;
+	background: red;
+}
+ul{
+	line-height: 1.5;
+	padding-left: 80px;
+	list-style-type: square;
+}
+h2{
+	background: blue;
+	padding-left: 15px;
+}
